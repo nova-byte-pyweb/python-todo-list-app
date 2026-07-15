@@ -15,14 +15,6 @@ A simple command-line To-Do List application built with Python.
 
 - Python
 
-## How to Run
-
-1. Clone this repository
-2. Run:
-
-```bash
-python todo_list.py
-
 ## Contact
 Email: novabyte0001@gmail.com
 
